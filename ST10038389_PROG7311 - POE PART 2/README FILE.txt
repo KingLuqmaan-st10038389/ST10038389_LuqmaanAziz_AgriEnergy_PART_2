@@ -159,4 +159,4 @@ Our idea was originally to design it for many functionalities, from education to
 strong foundation for database-driven, MVC-based web solutions.
 
 GitHub Link to Web App:
-https://github.com/KingLuqmaan123/ST10038389_PROG7311---POE-PART-2
+https://github.com/KingLuqmaan-st10038389/ST10038389_LuqmaanAziz_AgriEnergy_PART_2
