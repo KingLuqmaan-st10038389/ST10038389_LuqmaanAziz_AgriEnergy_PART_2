@@ -1,5 +1,9 @@
 ﻿WELCOME TO AGRI-ENERGY CONNECT PLATFORM WEB APPLICATION:
 ---------------------------------------------------------
+GitHub Link to Web Application:
+-------------------------------
+https://github.com/KingLuqmaan123/ST10038389_PROG7311---POE-PART-2
+
 INTRODUCTION:
 --------------
 The Agri-Energy Connect Platform is a web app developed using ASP. NET Core MVC with Visual Studio 2022 that enables 
@@ -158,5 +162,4 @@ If you want to use this web app for a college project, or wish to customize it w
 Our idea was originally to design it for many functionalities, from education to research to any type of project possible. By being flexible and open to many possibilities, it provides both you and the project you wish to use it for great value.
 strong foundation for database-driven, MVC-based web solutions.
 
-GitHub Link to Web App:
-https://github.com/KingLuqmaan123/ST10038389_PROG7311---POE-PART-2
+
