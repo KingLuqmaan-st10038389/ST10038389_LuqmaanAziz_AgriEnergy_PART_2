@@ -1,5 +1,20 @@
 ﻿WELCOME TO AGRI-ENERGY CONNECT PLATFORM WEB APPLICATION:
 ---------------------------------------------------------
+UPDATES TO THE NEW UPDATED PART 2 OF POE PROJECT:
+-------------------------------------------------
+1.Added a new Services Folder for the Async of code files.
+2.Updated the Controller and Models Folder.
+3.Added a new Controller called EmployeeController that controls the employees on the system application.
+4.Fixed the ApplicationDbContext.cs file and ApplicationUser.cs file.
+5.Added IEmployeeService and EmployeeService file codes.
+6.Added 2 new Models called LoginViewModel and RegisterViewModel.
+7.The LoginViewModel file consists of code that collects the data of users who are wanting to login into their account on the application.
+8.The RegisterViewModel file allows users to register for an account.
+9.Updated most of the code files based off feedback from the lecturer.
+10.Updated the UI/UX and the web interface.
+11.Follow this GitHub link to my updated PART 2 OF POE!
+                     BELOW:
+                     ------
 GitHub Link to Web Application:
 -------------------------------
 https://github.com/KingLuqmaan123/ST10038389_PROG7311---POE-PART-2
